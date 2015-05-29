@@ -14,11 +14,19 @@ change?
 
 What are some situations when branches would be helpful in keeping your history
 organized? How would branches help?
+	
+	If a major or experimental change is being made, creating a branch would allow us to make these changes without affecting the master. 
 
 How do the diagrams help you visualize the branch structure?
+	
+	The diagrams helps me visualize the branch structure by being visualizing the branch structure.	
 
 What is the result of merging two branches together? Why do we represent it in
 the diagram the way we do?
 
-What are the pros and cons of Gitâ€™s automatic merging vs. always doing merges
+	Merging two branches together involves putting their commits back into the same flow. It's respresented this way to better understand how one branch merges into another.
+
+What are the pros and cons of GitHub's automatic merging vs. always doing merges
 manually?
+
+	GitHub's automatic merging will not always be able to resolve conflicts between files, even if it's obvi to us.
